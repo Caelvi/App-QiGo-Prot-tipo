@@ -1,1 +1,1 @@
-# App-QiGo-Prot-tipo
+# App-QiGo-Prototipo
